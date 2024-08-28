@@ -1,0 +1,14 @@
+# Ignore all log files
+*.log
+
+# Ignore all compiled Python files
+*.pyc
+
+# Ignore directories named "node_modules"
+node_modules/
+
+# Ignore all files in the "build" directory
+build/
+
+# Ignore all files in the "tmp" directory
+tmp/
